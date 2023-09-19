@@ -9,4 +9,4 @@ def pwr(n, p):
 	return result
 
 if __name__ == "__main__":
-	print power(3,3)
+	print (pwr(2,2))
